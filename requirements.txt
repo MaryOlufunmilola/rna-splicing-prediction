@@ -1,0 +1,26 @@
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.24.2
+scipy==1.10.0
+
+# Machine learning frameworks
+scikit-learn==1.1.2
+tensorflow==2.11.0   # If using TensorFlow for deep learning models
+# or
+# pytorch==1.12.1    # If using PyTorch for deep learning models
+
+# For dimensionality reduction and feature selection
+umap-learn==0.5.3
+feature-engine==1.4.2
+
+# For handling missing data and imputation
+fancyimpute==0.7.0
+
+# For data visualization
+matplotlib==3.6.3
+seaborn==0.11.2
+
+# Jupyter Notebooks (optional)
+jupyterlab==3.5.1
+
+# If you need other specialized libraries for RNA-Seq processing, add them here
